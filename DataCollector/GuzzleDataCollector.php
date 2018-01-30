@@ -70,4 +70,5 @@ class GuzzleDataCollector extends DataCollector
     public function reset()
     {
         $this->data = [];
-    }}
+    }
+}
